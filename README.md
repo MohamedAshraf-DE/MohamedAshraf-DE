@@ -1,4 +1,4 @@
-<!-- 🌟 Futuristic Profile Header -->
+[<!-- 🌟 Futuristic Profile Header -->
 <div align="center">
   
   <!-- Larger Profile Image -->
@@ -269,3 +269,4 @@ I believe in the power of data to drive innovation and create intelligent soluti
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00e6ff&height=100&section=footer)
 
 </div>
+](https://www.upwork.com/freelancers/~0190a07e5b17474f9f?mp_source=share)
