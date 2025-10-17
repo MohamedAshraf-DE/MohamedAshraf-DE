@@ -1,14 +1,14 @@
 <!-- 🌟 Futuristic Profile Header -->
 <div align="center">
   
-  <!-- Profile Image -->
+  <!-- Larger Profile Image -->
   <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/hall.jpg" 
        alt="Mohamed Ashraf" 
-       width="280" 
-       style="border-radius: 50%; border: 4px solid #00e6ff; margin-bottom: 20px;" />
+       width="320" 
+       style="border-radius: 50%; border: 5px solid #00e6ff; margin-bottom: 20px; box-shadow: 0 0 30px #00e6ff;" />
   
-  <!-- Typing Text -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=800&height=60&duration=4000&lines=Hi+There!+👋;I'm+Mohamed+Ashraf!;Data+Analyst+%26+Aspiring+Data+Engineer!;Transforming+Data+into+Intelligent+Insights!" alt="Typing Text" />
+  <!-- Updated Typing Text with Machine Learning Engineer First -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=800&height=60&duration=4000&lines=Hi+There!+👋;I'm+Mohamed+Ashraf!;Machine+Learning+Engineer!;Data+Analyst+%26+Aspiring+Data+Engineer!;Transforming+Data+into+Intelligent+Insights!" alt="Typing Text" />
   
   <!-- Stats -->
   <br>
@@ -24,6 +24,29 @@
 <div align="center">
   <img src="https://i.ibb.co/nP5gPqL/futuristic-ai-banner.gif" alt="AI Banner" width="100%" />
 </div>
+
+<br>
+
+## 👨‍💻 About Me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/About.jpg" 
+       width="350" 
+       style="border-radius: 15px; border: 3px solid #00e6ff; float: right; margin-left: 20px; margin-bottom: 20px;" />
+</div>
+
+I'm a passionate **Machine Learning Engineer & Data Analyst** with a strong focus on transforming raw data into intelligent solutions. I specialize in building end-to-end machine learning pipelines and creating data-driven applications that solve real-world problems.
+
+### 🎯 What I Do:
+- 🔬 **Machine Learning**: Develop and deploy predictive models and AI solutions
+- 📊 **Data Analytics**: Transform complex data into actionable insights and visualizations
+- ⚙️ **Data Engineering**: Build scalable data pipelines and ETL processes
+- 🤖 **AI Solutions**: Create intelligent systems that learn and adapt
+
+### 🌟 My Passion:
+I believe in the power of data to drive innovation and create intelligent solutions. From predictive analytics to deep learning, I'm constantly exploring new ways to make machines smarter and more helpful.
+
+<br clear="both">
 
 <br>
 
@@ -44,30 +67,31 @@
 
 <div align="center">
 
-**Programming & Data Science**
+**Machine Learning & AI**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 <br>
 
-**Web & Tools**
+**Data & Analytics**
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br>
+
+**Web & Development**
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br>
-
-**Machine Learning**
-<br>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 </div>
 
@@ -81,6 +105,7 @@
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 </div>
 
@@ -120,29 +145,27 @@
 |------|-------|-------|
 | **2023** | 🎓 **The Beginning** | Discovered passion for data analytics, learned **Python**, **SQL**, and **Power BI** fundamentals |
 | **2024** | 💡 **Data Analyst Path** | Built interactive dashboards, mastered data visualization, ETL processes, and advanced analytics |
-| **2025** | ⚡ **Data Engineering** | Learning cloud platforms, MLOps, Spark, and building scalable data pipelines |
+| **2025** | ⚡ **Machine Learning Engineer** | Developing ML models, learning MLOps, cloud platforms, and building intelligent systems |
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/About.jpg" width="400" style="border-radius: 15px; border: 3px solid #00e6ff;" />
 </div>
 
 <br>
 
 ## 🔥 Featured Projects
 
-### 🎨 **3D Portfolio & Web Development**
+### 🤖 **Machine Learning & AI**
+- **Predictive Analytics Models** - Various ML models for business predictions and classifications
+- **Customer Segmentation** - Unsupervised learning for customer behavior analysis
+- **Natural Language Processing** - Text analysis and sentiment classification projects
+
+### 📊 **Data Analytics & Visualization**
+- **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights  
+- **ETL Data Pipeline** - Automated data extraction and transformation  
+- **Business Intelligence Reports** - Comprehensive data analysis and reporting
+
+### 🎨 **Web Development**
 - **[3D Interactive Portfolio](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)** - A stunning 3D portfolio website showcasing my projects and skills  
 - **[Live Portfolio Demo](https://mohamed-ashraf-github-io.vercel.app/)** - Experience my interactive portfolio
-
-### 📊 **Data Analytics Projects**
-- **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights  
-- **Customer Segmentation** - ML-powered customer grouping using K-means  
-- **ETL Data Pipeline** - Automated data extraction and transformation  
-- **Predictive Modeling** - Various ML models for prediction tasks  
 
 <br>
 
@@ -162,24 +185,24 @@
 ## 🎯 2025 Goals
 
 - [ ] **Build end-to-end ML projects** 🚀  
-- [ ] **Publish data engineering pipeline** ⚡  
-- [ ] **Earn AI/Cloud certifications** 📜  
-- [ ] **Contribute to open-source projects** 🌍  
-- [ ] **Master advanced data engineering tools** 🛠️  
-- [ ] **Develop more interactive web projects** 💻
+- [ ] **Deploy ML models to production** 🤖  
+- [ ] **Master MLOps and cloud platforms** ☁️  
+- [ ] **Earn AI/ML certifications** 📜  
+- [ ] **Contribute to open-source ML projects** 🌍  
+- [ ] **Publish data engineering pipeline** ⚡
 
 <br>
 
-## 🌟 About Me
+## 🌟 My Mission
 
 <div align="center">
 
-> **"Data is the new electricity — I'm building the power grid that transforms raw information into actionable insights and intelligent solutions."**
+> **"Data is the new electricity — I'm building the power grid that transforms raw information into intelligent solutions and actionable insights."**
 
-🌍 **Egyptian Data Enthusiast** passionate about analytics, cloud, and AI innovation  
-🎯 **Mission**: Build end-to-end pipelines that convert raw data into intelligence  
-💡 **Specializing in**: Python, SQL, Power BI, Data Visualization, Machine Learning  
-🚀 **Always learning, always evolving**
+🌍 **Machine Learning Engineer** passionate about AI, deep learning, and data innovation  
+🎯 **Mission**: Build intelligent systems that learn, adapt, and solve complex problems  
+💡 **Specializing in**: Python, TensorFlow, ML Algorithms, Data Pipelines, AI Solutions  
+🚀 **Always pushing the boundaries of what's possible with AI**
 
 </div>
 
@@ -189,7 +212,7 @@
 
 <div align="center">
 
-### ⚡ **Thanks for visiting my profile!**
-*Let's connect and create something amazing together!* 🚀
+### ⚡ **Let's build the future of AI together!**
+*Open to collaborations on innovative machine learning projects* 🚀
 
 </div>
