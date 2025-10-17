@@ -58,54 +58,84 @@ I believe in the power of data to drive innovation and create intelligent soluti
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAshraf-DE)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.ashraf.m.w@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-ashraf-github-io.vercel.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 
 </div>
 
 <br>
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-**Machine Learning & AI**
+### 🤖 **Machine Learning & AI**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-<br>
+<br><br>
 
-**Data & Analytics**
+### 📊 **Data & Analytics**
 <br>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
+<br><br>
+
+### ☁️ **Cloud & DevOps**
 <br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-**Web & Development**
+<br><br>
+
+### 🛠️ **Development & Tools**
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 </div>
 
 <br>
 
-## 🛠️ Currently Learning
+## 🚀 Currently Mastering
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 </div>
 
@@ -157,11 +187,18 @@ I believe in the power of data to drive innovation and create intelligent soluti
 - **Predictive Analytics Models** - Various ML models for business predictions and classifications
 - **Customer Segmentation** - Unsupervised learning for customer behavior analysis
 - **Natural Language Processing** - Text analysis and sentiment classification projects
+- **Computer Vision Projects** - Image recognition and processing applications
 
 ### 📊 **Data Analytics & Visualization**
 - **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights  
 - **ETL Data Pipeline** - Automated data extraction and transformation  
 - **Business Intelligence Reports** - Comprehensive data analysis and reporting
+- **Real-time Analytics** - Streaming data processing and visualization
+
+### ⚙️ **Data Engineering**
+- **Data Warehousing Solutions** - Building scalable data storage systems
+- **API Development** - Creating data endpoints and microservices
+- **Cloud Data Pipelines** - AWS/GCP/Azure data processing workflows
 
 ### 🎨 **Web Development**
 - **[3D Interactive Portfolio](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)** - A stunning 3D portfolio website showcasing my projects and skills  
@@ -177,6 +214,8 @@ I believe in the power of data to drive innovation and create intelligent soluti
 [![Mostaql](https://img.shields.io/badge/Mostaql-2B5FAC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAAAb08Z9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAQRJREFUeNpi/P//PwM1ARMDlcGogZQDlpMnT7JxcHBw9PX1sefly5e/ASDNP6zph1PEB3I8N0RNU8sKkDPKyspY/Pr16w8ASH2oCJgkAREEampqjC9fvvxNoWywbRITE2N89eoV1JAX3759+5+amhojML5//w4T/m/fvgHD2A9MCJQcU1NTBiDQa6uRkZF8AAHEAdl++vTpB0AAO2CT4VxWvIAAAAAASUVORK5CYII=)](https://mostaql.com/u/MohamedA_Data)
 [![Khamsat](https://img.shields.io/badge/Khamsat-FFD700?style=for-the-badge&logo=freelancer&logoColor=black)](https://khamsat.com/user/mohamed_ashraf124)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/dashboard)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
+[![Outlier](https://img.shields.io/badge/Outlier-7C3AED?style=for-the-badge&logo=ai&logoColor=white)](https://app.outlier.ai/profile)
 
 </div>
 
@@ -184,12 +223,18 @@ I believe in the power of data to drive innovation and create intelligent soluti
 
 ## 🎯 2025 Goals
 
+<div align="center">
+
 - [ ] **Build end-to-end ML projects** 🚀  
 - [ ] **Deploy ML models to production** 🤖  
 - [ ] **Master MLOps and cloud platforms** ☁️  
 - [ ] **Earn AI/ML certifications** 📜  
 - [ ] **Contribute to open-source ML projects** 🌍  
-- [ ] **Publish data engineering pipeline** ⚡
+- [ ] **Publish data engineering pipeline** ⚡  
+- [ ] **Learn advanced deep learning** 🧠  
+- [ ] **Build real-time data streaming** 📡
+
+</div>
 
 <br>
 
@@ -204,6 +249,10 @@ I believe in the power of data to drive innovation and create intelligent soluti
 💡 **Specializing in**: Python, TensorFlow, ML Algorithms, Data Pipelines, AI Solutions  
 🚀 **Always pushing the boundaries of what's possible with AI**
 
+<br>
+
+**📈 Always Learning | 🤝 Collaborative | 💡 Innovative | 🚀 Results-Driven**
+
 </div>
 
 <br>
@@ -214,5 +263,9 @@ I believe in the power of data to drive innovation and create intelligent soluti
 
 ### ⚡ **Let's build the future of AI together!**
 *Open to collaborations on innovative machine learning projects* 🚀
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00e6ff&height=100&section=footer)
 
 </div>
