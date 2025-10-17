@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Mohamed Ashraf" width="200" style="border-radius: 50%"/>
+  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/GIT.webp" alt="Mohamed Ashraf" width="200" style="border-radius: 50%; border: 3px solid #00e6ff;" />
 </div>
 
 <h1 align="center">
@@ -18,6 +18,8 @@
   
 </div>
 
+---
+
 ## 🧑‍💻 About Me
 
 <img src="https://i.imgur.com/mIq0M7G.gif" align="right" width="350px" alt="Coding GIF">
@@ -28,7 +30,7 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 - 🌱 I'm learning **Advanced Machine Learning & Cloud Data Platforms**
 - 👯 I'm looking to collaborate on **Open Source Data Projects**
 - 💬 Ask me about **Python, SQL, Power BI, Data Analytics**
-- 📫 How to reach me: **mohammed.ashraf.m.w@gmail.com**
+- 📫 Reach me at **mohammed.ashraf.m.w@gmail.com**
 - ⚡ Fun fact: **I can find patterns in data that others might miss!**
 
 ---
@@ -84,9 +86,7 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
   ![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAshraf-DE&theme=radical&no-frame=true&row=1&column=7)
-  
 </div>
 
 ---
@@ -94,9 +94,7 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 ## 📈 My Contributions
 
 <div align="center">
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAshraf-DE&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  
 </div>
 
 ---
@@ -104,16 +102,16 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 ## 🔥 Featured Projects
 
 ### 🎨 3D Portfolio & Web Development
-- **[3D Interactive Portfolio](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)** - A stunning 3D portfolio website showcasing my projects and skills
+- **[3D Interactive Portfolio](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)** - A stunning 3D portfolio website showcasing my projects and skills  
 - **[Live Portfolio Demo](https://mohamed-ashraf-github-io.vercel.app/)** - Experience my interactive portfolio
 
 ### 📊 Data Analytics Projects (Featured on LinkedIn)
-- **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights
-- **Customer Segmentation** - ML-powered customer grouping using K-means
-- **ETL Data Pipeline** - Automated data extraction and transformation
-- **Predictive Modeling** - Various ML models for prediction tasks
+- **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights  
+- **Customer Segmentation** - ML-powered customer grouping using K-means  
+- **ETL Data Pipeline** - Automated data extraction and transformation  
+- **Predictive Modeling** - Various ML models for prediction tasks  
 
-*View detailed project descriptions and demos on my [LinkedIn](https://www.linkedin.com/in/mohamed--ashraff) profile*
+*View detailed project descriptions and demos on my [LinkedIn](https://www.linkedin.com/in/mohamed--ashraff) profile.*
 
 ---
 
@@ -123,7 +121,7 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed--ashraff)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-ashraf-github-io.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAshraf-DE)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.ashraf.m.w@gmail.com)
 
 </div>
@@ -146,11 +144,11 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 
 ## 🎯 2025 Goals
 
-- [ ] **Build end-to-end ML projects** 🚀
-- [ ] **Publish data engineering pipeline** ⚡
-- [ ] **Earn AI/Cloud certifications** 📜
-- [ ] **Contribute to open-source projects** 🌍
-- [ ] **Master advanced data engineering tools** 🛠️
+- [ ] **Build end-to-end ML projects** 🚀  
+- [ ] **Publish data engineering pipeline** ⚡  
+- [ ] **Earn AI/Cloud certifications** 📜  
+- [ ] **Contribute to open-source projects** 🌍  
+- [ ] **Master advanced data engineering tools** 🛠️  
 - [ ] **Develop more interactive web projects** 💻
 
 ---
@@ -160,8 +158,9 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 ### ⚡ **Fun Fact**
 > *"Data is the new electricity — and I love building the power grid."*
 
-**Thanks for visiting my profile!** 😊
+**Thanks for visiting my profile!** 😊  
 
-![Snake animation](https://github.com/MohamedAshraf-DE/MohamedAshraf-DE/blob/output/github-contribution-grid-snake.svg)
+<!-- Temporarily disable snake animation until it’s ready -->
+<!-- ![Snake animation](https://github.com/MohamedAshraf-DE/MohamedAshraf-DE/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
