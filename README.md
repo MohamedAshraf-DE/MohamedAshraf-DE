@@ -107,12 +107,123 @@ I love working with data and building intelligent solutions that drive decision-
 
 ---
 
-## 📈 Contribution Graph & Snake Animation
+## 📈 GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAshraf-DE&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+  ### 📊 GitHub Stats
+  <a href="https://github.com/MohamedAshraf-DE">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MohamedAshraf-DE&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAshraf-DE&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+  
+  <br>
+  
+  ### 🔥 Contribution Streak
+  <a href="https://github.com/MohamedAshraf-DE">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshraf-DE&theme=radical&hide_border=true" />
+  </a>
+  
   <br><br>
-  <img src="https://github.com/MohamedAshraf-DE/MohamedAshraf-DE/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="90%"/>
+  
+  ### 📈 Activity Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAshraf-DE&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=00e6ff" width="100%"/>
+  
+  <br><br>
+  
+  ### 🐍 Contribution Snake
+  <img src="https://github.com/MohamedAshraf-DE/MohamedAshraf-DE/blob/output/github-snake.svg" alt="Snake Animation" width="100%"/>
+  
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/glow-divider.gif" width="100%" alt="Glowing Divider">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAshraf-DE&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/glow-divider.gif" width="100%" alt="Glowing Divider">
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🎨 3D Portfolio & Web Development
+- **[3D Interactive Portfolio](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)** - A stunning 3D portfolio website showcasing my projects and skills  
+- **[Live Portfolio Demo](https://mohamed-ashraf-github-io.vercel.app/)** - Experience my interactive portfolio
+
+### 📊 Data Analytics Projects (Featured on LinkedIn)
+- **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights  
+- **Customer Segmentation** - ML-powered customer grouping using K-means  
+- **ETL Data Pipeline** - Automated data extraction and transformation  
+- **Predictive Modeling** - Various ML models for prediction tasks  
+
+*View detailed project descriptions and demos on my [LinkedIn](https://www.linkedin.com/in/mohamed--ashraff) profile.*
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/glow-divider.gif" width="100%" alt="Glowing Divider">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed--ashraff)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-ashraf-github-io.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAshraf-DE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.ashraf.m.w@gmail.com)
+
+</div>
+
+---
+
+## 💼 Freelance Profiles
+
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0190a07e5b17474f9f?mp_source=share)
+[![Mostaql](https://img.shields.io/badge/Mostaql-2B5FAC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAAAb08Z9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAQRJREFUeNpi/P//PwM1ARMDlcGogZQDlpMnT7JxcHBw9PX1sefly5e/ASDNP6zph1PEB3I8N0RNU8sKkDPKyspY/Pr16w8ASH2oCJgkAREEampqjC9fvvxNoWywbRITE2N89eoV1JAX3759+5+amhojML5//w4T/m/fvgHD2A9MCJQcU1NTBiDQa6uRkZF8AAHEAdl++vTpB0AAO2CT4VxWvIAAAAAASUVORK5CYII=)](https://mostaql.com/u/MohamedA_Data)
+[![Khamsat](https://img.shields.io/badge/Khamsat-FFD700?style=for-the-badge&logo=freelancer&logoColor=black)](https://khamsat.com/user/mohamed_ashraf124)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/dashboard)
+[![Outlier](https://img.shields.io/badge/Outlier-7C3AED?style=for-the-badge&logo=ai&logoColor=white)](https://app.outlier.ai/profile)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/glow-divider.gif" width="100%" alt="Glowing Divider">
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+<div align="center">
+
+- [ ] **Build end-to-end ML projects** 🚀  
+- [ ] **Publish data engineering pipeline** ⚡  
+- [ ] **Earn AI/Cloud certifications** 📜  
+- [ ] **Contribute to open-source projects** 🌍  
+- [ ] **Master advanced data engineering tools** 🛠️  
+- [ ] **Develop more interactive web projects** 💻
+
 </div>
 
 ---
@@ -129,7 +240,7 @@ I love working with data and building intelligent solutions that drive decision-
 
 🌍 Egyptian Data Enthusiast passionate about **analytics, cloud, and AI innovation**.  
 🎯 Mission: Build **end-to-end pipelines** that convert raw data into intelligence.  
-💬 “For me, data isn’t just numbers — it’s a story waiting to be told.”  
+💬 "For me, data isn't just numbers — it's a story waiting to be told."  
 📈 Always learning, always evolving.
 
 </div>
@@ -137,5 +248,5 @@ I love working with data and building intelligent solutions that drive decision-
 ---
 
 <p align="center">
-  <i>✨ “Data is the new electricity — I’m building the power grid.” ⚡</i>
+  <i>✨ "Data is the new electricity — I'm building the power grid." ⚡</i>
 </p>
