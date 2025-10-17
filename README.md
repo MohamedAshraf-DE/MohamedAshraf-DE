@@ -20,11 +20,11 @@
 
 I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus on transforming raw data into actionable insights. I love working with data and building intelligent solutions that drive decision-making.
 
-- 🔭 I’m currently working on **Data Engineering projects**
-- 🌱 I’m learning **Advanced Machine Learning & Cloud Data Platforms**
+- 🔭 I'm currently working on **Data Analytics & Engineering projects**
+- 🌱 I'm learning **Advanced Machine Learning & Cloud Data Platforms**
 - 👯 I'm looking to collaborate on **Open Source Data Projects**
 - 💬 Ask me about **Python, SQL, Power BI, Data Analytics**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed--ashraff)
+- 📫 How to reach me: **mohammed.ashraf.m.w@gmail.com**
 - ⚡ Fun fact: **I can find patterns in data that others might miss!**
 
 ---
@@ -33,7 +33,7 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 
 ### 💻 Programming & Markup Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,sql,html,css,js" alt="Languages" />
 </p>
 
 ### 📊 Data Science & Analytics
@@ -99,14 +99,17 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 
 ## 🔥 Featured Projects
 
-### 📊 Data Analytics & Visualization
-- **[Sales Analytics Dashboard](https://github.com/MohamedAshraf-DE/sales-analytics)** - Interactive Power BI dashboard for sales insights
-- **[Customer Segmentation](https://github.com/MohamedAshraf-DE/customer-segmentation)** - ML-powered customer grouping using K-means
-- **[ETL Pipeline](https://github.com/MohamedAshraf-DE/etl-pipeline)** - Automated data extraction and transformation
+### 🎨 3D Portfolio & Web Development
+- **[3D Interactive Portfolio](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)** - A stunning 3D portfolio website showcasing my projects and skills
+- **[Live Portfolio Demo](https://mohamed-ashraf-github-io.vercel.app/)** - Experience my interactive portfolio
 
-### 🤖 Machine Learning
-- **[Predictive Modeling](https://github.com/MohamedAshraf-DE/predictive-models)** - Various ML models for prediction tasks
-- **[NLP Projects](https://github.com/MohamedAshraf-DE/nlp-projects)** - Text analysis and natural language processing
+### 📊 Data Analytics Projects (Featured on LinkedIn)
+- **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights
+- **Customer Segmentation** - ML-powered customer grouping using K-means
+- **ETL Data Pipeline** - Automated data extraction and transformation
+- **Predictive Modeling** - Various ML models for prediction tasks
+
+*View detailed project descriptions and demos on my [LinkedIn](https://www.linkedin.com/in/mohamed--ashraff) profile*
 
 ---
 
@@ -116,8 +119,8 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed--ashraff)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-ashraf-github-io.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAshraf-DE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.ashraf.m.w@gmail.com)
 
 </div>
 
@@ -127,9 +130,11 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 
 <div align="center">
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0190a07e5b17474f9f)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0190a07e5b17474f9f?mp_source=share)
 [![Mostaql](https://img.shields.io/badge/Mostaql-2B5FAC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAAAb08Z9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAQRJREFUeNpi/P//PwM1ARMDlcGogZQDlpMnT7JxcHBw9PX1sefly5e/ASDNP6zph1PEB3I8N0RNU8sKkDPKyspY/Pr16w8ASH2oCJgkAREEampqjC9fvvxNoWywbRITE2N89eoV1JAX3759+5+amhojML5//w4T/m/fvgHD2A9MCJQcU1NTBiDQa6uRkZF8AAHEAdl++vTpB0AAO2CT4VxWvIAAAAAASUVORK5CYII=)](https://mostaql.com/u/MohamedA_Data)
 [![Khamsat](https://img.shields.io/badge/Khamsat-FFD700?style=for-the-badge&logo=freelancer&logoColor=black)](https://khamsat.com/user/mohamed_ashraf124)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/dashboard)
+[![Outlier](https://img.shields.io/badge/Outlier-7C3AED?style=for-the-badge&logo=ai&logoColor=white)](https://app.outlier.ai/profile)
 
 </div>
 
@@ -142,6 +147,7 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 - [ ] **Earn AI/Cloud certifications** 📜
 - [ ] **Contribute to open-source projects** 🌍
 - [ ] **Master advanced data engineering tools** 🛠️
+- [ ] **Develop more interactive web projects** 💻
 
 ---
 
