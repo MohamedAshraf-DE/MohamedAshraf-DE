@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/GIT.webp" alt="Mohamed Ashraf" width="200" style="border-radius: 50%; border: 3px solid #00e6ff;" />
+  <img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/GIT.webp" alt="Mohamed Ashraf" width="150" style="border-radius: 50%; border: 3px solid #00e6ff;" />
 </div>
 
 <h1 align="center">
@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-<img src="https://i.imgur.com/mIq0M7G.gif" align="right" width="350px" alt="Coding GIF">
+<img src="https://raw.githubusercontent.com/MohamedAshraf-DE/MohamedAshraf-DE/main/About.jpg" align="right" width="350px" alt="About Mohamed Ashraf" style="border-radius: 10px; border: 2px solid #00e6ff;" />
 
 I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus on transforming raw data into actionable insights. I love working with data and building intelligent solutions that drive decision-making.
 
@@ -160,7 +160,7 @@ I'm a passionate **Data Analyst & Aspiring Data Engineer** with a strong focus o
 
 **Thanks for visiting my profile!** 😊  
 
-<!-- Temporarily disable snake animation until it’s ready -->
+<!-- Temporarily disable snake animation until it's ready -->
 <!-- ![Snake animation](https://github.com/MohamedAshraf-DE/MohamedAshraf-DE/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
