@@ -1,9 +1,10 @@
 name: Generate Snake Animation
 
+# Trigger the workflow daily and allow manual triggers
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once a day (midnight)
-  workflow_dispatch:      # Allow manual trigger
+    - cron: "0 0 * * *"  # Runs once a day at midnight
+  workflow_dispatch:     # Allows manual trigger
   push:
     branches:
       - main
@@ -11,20 +12,33 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      # Step 2: Set up Python (if your snake animation script uses Python)
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: MohamedAshraf-DE
-          outputs: dist/github-contribution-grid-snake.svg
+          python-version: '3.11'
 
-      - name: Push Snake Animation to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 3: Install dependencies
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Step 4: Run the snake animation script
+      - name: Run Snake Animation
+        run: python generate_snake_animation.py
+
+      # Step 5: Commit and push the generated animation
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add animations/  # folder where your animation output is saved
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
