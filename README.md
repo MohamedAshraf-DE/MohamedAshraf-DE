@@ -184,21 +184,21 @@ I believe in the power of data to drive innovation and create intelligent soluti
 ## 🔥 Featured Projects
 
 ### 🤖 **Machine Learning & AI**
-- **Predictive Analytics Models** - Various ML models for business predictions and classifications
-- **Customer Segmentation** - Unsupervised learning for customer behavior analysis
-- **Natural Language Processing** - Text analysis and sentiment classification projects
-- **Computer Vision Projects** - Image recognition and processing applications
+- **Uber Ride Cancellatio** 
+- **Movie Revenue Prediction ** 
+- **California House Pricing** 
+- **3D Interactive Portfolio** 
 
 ### 📊 **Data Analytics & Visualization**
-- **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights  
+- **Sales Analytics Dashboard** - Interactive Power BI dashboard for sales insights
+- **HR Analytics Dashboard**
+- **Uber Ride prediction Cancellation Analytics Dashboard**     
 - **ETL Data Pipeline** - Automated data extraction and transformation  
 - **Business Intelligence Reports** - Comprehensive data analysis and reporting
 - **Real-time Analytics** - Streaming data processing and visualization
 
 ### ⚙️ **Data Engineering**
-- **Data Warehousing Solutions** - Building scalable data storage systems
 - **API Development** - Creating data endpoints and microservices
-- **Cloud Data Pipelines** - AWS/GCP/Azure data processing workflows
 
 ### 🎨 **Web Development**
 - **[3D Interactive Portfolio](https://github.com/MohamedAshraf-DE/MohamedAshraf.github.io)** - A stunning 3D portfolio website showcasing my projects and skills  
