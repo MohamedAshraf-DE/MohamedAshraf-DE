@@ -184,7 +184,7 @@ I believe in the power of data to drive innovation and create intelligent soluti
 ## 🔥 Featured Projects
 
 ### 🤖 **Machine Learning & AI**
-- **Uber Ride Cancellatio** 
+- **Uber Ride Cancellation  Prediction** 
 - **Movie Revenue Prediction ** 
 - **California House Pricing** 
 - **3D Interactive Portfolio** 
