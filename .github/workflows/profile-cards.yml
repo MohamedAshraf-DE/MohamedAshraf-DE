@@ -30,23 +30,70 @@ jobs:
       - name: Pull generated cards
         run: git pull --rebase origin main
 
-      - name: Repair README analytics and snake
+      - name: Refresh local trophy image
+        shell: bash
+        run: |
+          mkdir -p assets
+          tmp="assets/github-trophies.tmp.svg"
+          mirrors=(
+            "https://trophy.ryglcloud.net/?username=MohamedAshraf-DE&theme=radical&no-frame=true&row=1&column=4"
+            "https://gh-trophy.cdnsoft.net/?username=MohamedAshraf-DE&theme=radical&no-frame=true&row=1&column=4"
+            "https://github-profile-trophy-winning.vercel.app/?username=MohamedAshraf-DE&theme=radical&no-frame=true&row=1&column=4"
+            "https://github-profile-trophy-liard-delta.vercel.app/?username=MohamedAshraf-DE&theme=radical&no-frame=true&row=1&column=4"
+          )
+
+          refreshed=false
+          for url in "${mirrors[@]}"; do
+            echo "Trying trophy mirror: $url"
+            if curl --fail --location --silent --show-error --max-time 30 "$url" -o "$tmp" \
+              && grep -qi "<svg" "$tmp" \
+              && [ "$(wc -c < "$tmp")" -gt 500 ]; then
+              mv "$tmp" assets/github-trophies.svg
+              refreshed=true
+              echo "Trophy image refreshed successfully."
+              break
+            fi
+            rm -f "$tmp"
+          done
+
+          if [ "$refreshed" = false ]; then
+            echo "All trophy mirrors were unavailable. Keeping the previous local trophy image if it exists."
+          fi
+
+      - name: Repair README analytics, trophies and snake
         shell: python
         run: |
           from pathlib import Path
+
           path = Path("README.md")
           text = path.read_text(encoding="utf-8")
+
           if text.startswith("[<!--"):
               text = text[1:]
-          old_trophy = '  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAshraf-DE&theme=radical&no-frame=true&row=1&column=4" alt="Trophies" />'
-          new_header_stats = '  <a href="https://github.com/MohamedAshraf-DE?tab=followers">\n    <img src="https://img.shields.io/github/followers/MohamedAshraf-DE?style=flat&logo=github&label=Followers" alt="GitHub Followers" />\n  </a>\n  <a href="https://github.com/MohamedAshraf-DE?tab=repositories">\n    <img src="https://img.shields.io/github/stars/MohamedAshraf-DE?affiliations=OWNER&style=flat&logo=github&label=Stars" alt="GitHub Stars" />\n  </a>'
-          text = text.replace(old_trophy, new_header_stats)
+
+          badge_block = '''  <a href="https://github.com/MohamedAshraf-DE?tab=followers">
+            <img src="https://img.shields.io/github/followers/MohamedAshraf-DE?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
+          </a>
+          <a href="https://github.com/MohamedAshraf-DE?tab=repositories">
+            <img src="https://img.shields.io/github/stars/MohamedAshraf-DE?affiliations=OWNER&style=flat&logo=github&label=Stars" alt="GitHub Stars" />
+          </a>'''
+
+          old_external_trophy = '  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAshraf-DE&theme=radical&no-frame=true&row=1&column=4" alt="Trophies" />'
+          local_trophy = '''  <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="./assets/github-trophies.svg" alt="GitHub Trophies" />
+          </a>'''
+
+          if Path("assets/github-trophies.svg").exists():
+              text = text.replace(badge_block, local_trophy)
+              text = text.replace(old_external_trophy, local_trophy)
+
           start_marker = "## 📊 GitHub Analytics"
           end_marker = "## 🚀 My Learning Journey"
           start = text.find(start_marker)
           end = text.find(end_marker)
           if start == -1 or end == -1 or end <= start:
               raise RuntimeError("Could not locate GitHub Analytics section")
+
           analytics = "\n".join([
               "## 📊 GitHub Analytics",
               "",
@@ -77,17 +124,21 @@ jobs:
               "<br>",
               "",
           ])
+
           text = text[:start] + analytics + text[end:]
           path.write_text(text, encoding="utf-8")
 
-      - name: Commit README repair
+      - name: Commit profile refresh
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
+          if [ -f assets/github-trophies.svg ]; then
+            git add assets/github-trophies.svg
+          fi
           if git diff --cached --quiet; then
-            echo "No README changes to commit."
+            echo "No profile changes to commit."
           else
-            git commit -m "fix(profile): repair analytics and contribution snake"
+            git commit -m "fix(profile): restore stable trophy cards"
             git push
           fi
