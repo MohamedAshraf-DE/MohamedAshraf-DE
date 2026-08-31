@@ -14,12 +14,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=MohamedAshraf-DE&abbreviated=true" alt="Profile Views" />
   <br>
-  <a href="https://github.com/MohamedAshraf-DE?tab=followers">
-    <img src="https://img.shields.io/github/followers/MohamedAshraf-DE?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/MohamedAshraf-DE?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MohamedAshraf-DE?affiliations=OWNER&style=flat&logo=github&label=Stars" alt="GitHub Stars" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="./assets/github-trophies.svg" alt="GitHub Trophies" />
+</a>
 
 </div>
 
